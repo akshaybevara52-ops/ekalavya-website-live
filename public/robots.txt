@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ekalavya-website-live.vercel.app/sitemap.xml
+Sitemap: https://ekalavyacoaching.in/sitemap.xml
